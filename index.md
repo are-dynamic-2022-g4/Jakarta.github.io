@@ -12,7 +12,6 @@ L'indonésie est-elle capable de sauver seule sa capitale d'être inondé par l'
 
 ### Les méthodes
 
-```markdown
 # CO2 -> Température -> Augmentation de la niveau de l'océan
 Augmentation de la hauteur du niveau de l’océan si la température augmentait de deltaT:
 
@@ -28,9 +27,7 @@ Hauteur=deltaV/Surface
 
 sources
 [Link](url)
-```
 
-```markdown
 # L'extraction de données d'une carte topographique
 
 J'ai utilisé la bibliothèque PIL (Python Image Library) pour itérer les pixels d'une image. 
@@ -43,20 +40,15 @@ submergé la ville entière car il y avait environ 4000-5000 images par video
 Pour les submersions d'images satellites, j'ai utilisé une fonction qui effectue les calculs sur l'image de la carte 
 topographique, mais qui effectue ensuite la submersion sur une image satellite que j'ai déplacée et recadrée pour avoir la 
 même résolution que la carte.
-```
 
-```markdown
 # Progrès
 
 
 ![Progress](https://user-images.githubusercontent.com/96302110/163871072-ebc1b22d-22fd-4b11-93c6-d2614113558b.mp4)
 
 
-```
 
 ### Les simulations
-
-```markdown
 
 ![image](https://user-images.githubusercontent.com/96302110/163873648-548cfb65-8b39-4174-8475-3a957431526b.png)
 
@@ -98,4 +90,3 @@ Selon ce scénario, l'eau va augmenter de 4.28m, une différence de 6 centimètr
 Cela va résulter en 713.46 km^2 de terres submergées par les eaux, et 1,826,781 personnes seront déplacées.
 
 Alors indonésie seule peut sauver 6.47 km^2 de terres, et les maisons de 28,703 personnes à Jakarta. Une réduction de 1%.
-```
