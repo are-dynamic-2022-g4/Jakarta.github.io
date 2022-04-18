@@ -33,29 +33,49 @@ sources
 ```markdown
 # L'extraction de données d'une carte topographique
 
-J'ai utilisé la bibliothèque PIL (Python Image Library) pour itérer les pixels d'une image. Puis j'ai utilisé une fonction pour passer des valeurs de couleur RGB aux valeurs de hauteur.
+J'ai utilisé la bibliothèque PIL (Python Image Library) pour itérer les pixels d'une image. 
+Puis j'ai utilisé une fonction pour passer des valeurs de couleur RGB aux valeurs de hauteur.
 
-Pour optimiser le procès de création d'image, j'ai transféré les valeurs de hauteur pour chaque pixel dans une matrice numpy, comme ça je n'ai pas eu besoin de traiter chaque image, c'était particulièrement utile pour créer ces vidéos où j'ai complètement submergé la ville entière car il y avait environ 4000-5000 images par video
+Pour optimiser le procès de création d'image, j'ai transféré les valeurs de hauteur pour chaque pixel dans une matrice numpy.
+Comme ça je n'ai pas eu besoin de traiter chaque image, c'était particulièrement utile pour créer ces vidéos où j'ai complètement 
+submergé la ville entière car il y avait environ 4000-5000 images par video
 
-Pour les submersions d'images satellites, j'ai utilisé une fonction qui effectue les calculs sur l'image de la carte topographique, mais qui effectue ensuite la submersion sur une image satellite que j'ai déplacée et recadrée pour avoir la même résolution que la carte.
+Pour les submersions d'images satellites, j'ai utilisé une fonction qui effectue les calculs sur l'image de la carte 
+topographique, mais qui effectue ensuite la submersion sur une image satellite que j'ai déplacée et recadrée pour avoir la 
+même résolution que la carte.
 ```
 
 ```markdown
 # Progrès
 
+
 ![Progress](https://user-images.githubusercontent.com/96302110/163871072-ebc1b22d-22fd-4b11-93c6-d2614113558b.mp4)
+
+
+```
 
 ### Les simulations
 
 ```markdown
-![SSP_CO2_ppm](https://user-images.githubusercontent.com/96302110/162988227-f8b2337a-68ba-4d88-ab65-908736ebcf57.png)
-![SSP_TEMP_deltc](https://user-images.githubusercontent.com/96302110/162988600-17fd530a-bf9c-4ee6-96fe-0d1291db0b87.png)
+
+![image](https://user-images.githubusercontent.com/96302110/163873648-548cfb65-8b39-4174-8475-3a957431526b.png)
+
+# RPC 4.5: Scénario intermédiaire
+
+Celui-ci est décrit par le GIEC comme le scénario intermédiaire, Les émissions plafonnent vers 2040, puis diminuent.
+
+La variation probable de la prévision du GIEC pour le RPC 4.5 est une augmentation du niveau des océans de 32 à 63 centimètres. 
+Avec la valeur p de 0.5 (médiane) correspondant à *53 cm*.
+
+Selon mon programme, cela va résulter en *25.14 km2* de terres submergées par les eaux, et *8,876 personnes* seront déplacées.
 
 
-# Simulation 4.5: Si tout continue à accélerer dans exactement la même façon
+# RPC 8.5: Cas extrême
 
-simulation graphique d'emissions, temperature et le niveau de l'océan
-simulation visuelle
-metriques de surface perdu, les personnes déplacées
+Celui-ci est le scénario dans lequel les émissions continuent d'augmenter tout au long du 21e siècle.
 
-# Simulation 2: 
+La variation probable de la prévision du GIEC pour le RPC 8.5 est une augmentation du niveau des océans de 45 à 82 centimètres. 
+Avec la valeur p de 0.5 (médiane) correspondant à *74 cm*.
+
+Selon mon programme, cela va résulter en *41.62 km2* de terres submergées par les eaux, et *30,276 personnes* seront déplacées.
+```
