@@ -92,6 +92,7 @@ Alors indonésie seule peut sauver 6.47 km^2 de terres, et les maisons de 28,703
 ### Critiques: 
 
 Malgré nos recherches nous n'avons pas pu trouver d’équation liant le taux de CO2 dans l’atmosphère et le niveau d’augmentation de l’eau. Au tout début nous avons utilisé la Formule de Hansen  +/−(20ppmCO2≡1˚C≡20msealevel)  mais en regardant de plus près, à l’époque cette formule était approximativement correcte. Mais depuis l’ère industrielle l’émission de CO2 a tellement augmenté et la formule n’était plus cohérente.
+![image](https://user-images.githubusercontent.com/101198713/163886294-3763a231-5ddd-4e75-a8ca-0b421f818b51.png)
 
 Puis nous avons essayé de rentrer plus en détail avec l’augmentation du niveau de l’océan avec la puissance solaire, forçage radiatif, et augmentation du niveau de l’océan avec la température, mais les résultats n’étaient pas satisfaisant.
 
@@ -101,3 +102,6 @@ Nous avons dû nous rabattre sur des régressions avec les résultats et statist
 ### Conclusion:
 
 On se rend compte qu’avec nos simulations, le pire scénario est que la hauteur du niveau de la mer augmente d’environ 1.3 mètres. Ce qui déplace environ ……. habitants. Ce qui est théoriquement pas assez grave pour déplacer autant de personnes vers une nouvelle capitale et loin des estimations qu’on peut trouver sur internet par exemple de 50% de la capitale submergée d’ici 2050. En faisant d’autres recherches nous avons remarqué qu'il n’y avait pas que le réchauffement climatique qui influence l'inondation. Il y a aussi le prélèvement d’eau souterraine qui fait plonger Jakarta.C’est la combinaison des deux qui est problématique. Donc finalement notre hypothèse est fausse car Jakarta peut potentiellement se sauver elle-même de cette situation.
+![image](https://user-images.githubusercontent.com/101198713/163886198-0a2effd1-01b2-4163-b416-781d90819f5c.png)
+![image](https://user-images.githubusercontent.com/101198713/163886268-56d008d8-c7e6-4143-aa2a-4ca0ae75bb79.png)
+
