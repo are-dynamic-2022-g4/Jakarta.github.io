@@ -102,6 +102,8 @@ Nous avons dû nous rabattre sur des régressions avec les résultats et statist
 ### Conclusion:
 
 On se rend compte qu’avec nos simulations, le pire scénario est que la hauteur du niveau de la mer augmente d’environ 1.3 mètres. Ce qui déplace environ ……. habitants. Ce qui est théoriquement pas assez grave pour déplacer autant de personnes vers une nouvelle capitale et loin des estimations qu’on peut trouver sur internet par exemple de 50% de la capitale submergée d’ici 2050. En faisant d’autres recherches nous avons remarqué qu'il n’y avait pas que le réchauffement climatique qui influence l'inondation. Il y a aussi le prélèvement d’eau souterraine qui fait plonger Jakarta.C’est la combinaison des deux qui est problématique. Donc finalement notre hypothèse est fausse car Jakarta peut potentiellement se sauver elle-même de cette situation.
+
+
 ![image](https://user-images.githubusercontent.com/101198713/163886198-0a2effd1-01b2-4163-b416-781d90819f5c.png)
 ![image](https://user-images.githubusercontent.com/101198713/163886268-56d008d8-c7e6-4143-aa2a-4ca0ae75bb79.png)
 
