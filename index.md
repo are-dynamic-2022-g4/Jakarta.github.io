@@ -10,9 +10,9 @@ En Indonésie, Jakarta est menacé d'être submergé par l'océan. Cette augment
 
 L'indonésie est-elle capable de sauver seule sa capitale d'être inondé par l'océan.
 
-### Les méthodes
+# Les méthodes
 
-# CO2 -> Température -> Augmentation de la niveau de l'océan
+### CO2 -> Température -> Augmentation de la niveau de l'océan
 Augmentation de la hauteur du niveau de l’océan si la température augmentait de deltaT:
 
 Volume de l’océan actuellement : 1,4*10¹⁸*m³
@@ -28,31 +28,38 @@ Hauteur=deltaV/Surface
 sources
 [Link](url)
 
-# L'extraction de données d'une carte topographique
+### L'extraction de données d'une carte topographique
 
 J'ai utilisé la bibliothèque PIL (Python Image Library) pour itérer les pixels d'une image. 
-Puis j'ai utilisé une fonction pour passer des valeurs de couleur RGB aux valeurs de hauteur.
+
+### Traitement de données
+
+Puis j'ai utilisé une fonction pour passer des valeurs de couleur RGB aux valeurs de hauteur. 
+Pour cette fonction j'ai pris l'aide d'un ami qui étudie les mathématiques à l'université de bologne en italie.
+
+### L'optimisation
 
 Pour optimiser le procès de création d'image, j'ai transféré les valeurs de hauteur pour chaque pixel dans une matrice numpy.
 Comme ça je n'ai pas eu besoin de traiter chaque image, c'était particulièrement utile pour créer ces vidéos où j'ai complètement 
 submergé la ville entière car il y avait environ 4000-5000 images par video
 
+### Résultat finale
+
 Pour les submersions d'images satellites, j'ai utilisé une fonction qui effectue les calculs sur l'image de la carte 
 topographique, mais qui effectue ensuite la submersion sur une image satellite que j'ai déplacée et recadrée pour avoir la 
 même résolution que la carte.
 
-# Progrès
+# Les simulations
 
+### Progrès
 
-![Progress](https://user-images.githubusercontent.com/96302110/163871072-ebc1b22d-22fd-4b11-93c6-d2614113558b.mp4)
+https://user-images.githubusercontent.com/96302110/163871072-ebc1b22d-22fd-4b11-93c6-d2614113558b.mp4
 
-
-
-### Les simulations
+# Scénarios
 
 ![image](https://user-images.githubusercontent.com/96302110/163873648-548cfb65-8b39-4174-8475-3a957431526b.png)
 
-# RPC 4.5: Scénario intermédiaire
+### RPC 4.5: Scénario intermédiaire
 
 Celui-ci est décrit par le GIEC comme le scénario intermédiaire, Les émissions plafonnent vers 2040, puis diminuent.
 
@@ -62,7 +69,7 @@ Avec la valeur p de 0.5 (médiane) correspondant à *53 cm*.
 Selon mon programme, cela va résulter en *25.14 km2* de terres submergées par les eaux, et *8,876 personnes* seront déplacées.
 
 
-# RPC 8.5: Cas extrême
+### RPC 8.5: Cas extrême
 
 Celui-ci est le scénario dans lequel les émissions continuent d'augmenter tout au long du 21e siècle.
 
@@ -71,7 +78,7 @@ Avec la valeur p de 0.5 (médiane) correspondant à *74 cm*.
 
 Selon mon programme, cela va résulter en *41.62 km2* de terres submergées par les eaux, et *30,276 personnes* seront déplacées.
 
-# EFO 1.0: Régression Linéaire
+### EFO 1.0: Régression Linéaire
 
 Nous avons calculé l'augmentation par le régression des données entre 2000 et 2020, 
 alors notre prédiction n'est pas complètement en accord avec les prédictions plus fiables du GIEC.
@@ -81,7 +88,7 @@ Celui-ci est le scénario dans lequel les émissions continuent linéairement sa
 Selon ce scénario, l'eau va augmenter de 4.34m jusqu'à 2100. Et cela va résulter en 719.93 km^2 de terres submergées par les eaux,
 et 1,855,484 personnes seront déplacées.
 
-# EFO 2.0: Sans L'Indonésie
+### EFO 2.0: Sans L'Indonésie
 
 Celui-ci est le scénario dans lequel L'Indonésie cesse complètement d'émettre du CO2, dès maintenant.
 
