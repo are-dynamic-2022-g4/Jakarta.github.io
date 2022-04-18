@@ -43,11 +43,19 @@ Pour optimiser le procès de création d'image, j'ai transféré les valeurs de 
 Comme ça je n'ai pas eu besoin de traiter chaque image, c'était particulièrement utile pour créer ces vidéos où j'ai complètement 
 submergé la ville entière car il y avait environ 4000-5000 images par video
 
-### Résultat finale
+### Image finale
 
 Pour les submersions d'images satellites, j'ai utilisé une fonction qui effectue les calculs sur l'image de la carte 
 topographique, mais qui effectue ensuite la submersion sur une image satellite que j'ai déplacée et recadrée pour avoir la 
 même résolution que la carte.
+
+### Calcul des stats
+
+Pour calculer la surface perdu, j'ai calculé la conversion entre les pixels sur l'image et la distance en réalité avec Google Maps
+Et j'ai trouvé que chaque pixel est égale à presque 110m de taille.
+Pour calculer le nombre de personnes déplacées j'ai utilisé une carte de la densité de la population de Jakarta.
+J'ai créé une fonction qui trouvé le valeur de population pour chaque pixel sur la carte de la population à partir du couleur.
+J'ai dû modifier un peu la forme et la taille de la carte pour l'adapter à la carte topographique et à l'image satellite. 
 
 # Les simulations
 
