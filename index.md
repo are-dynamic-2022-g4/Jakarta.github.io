@@ -10,9 +10,6 @@ L'indonésie est-elle capable de sauver seule sa capitale d'être inondé par l'
 ### Hypothèse
 
 L’Indonésie seule ne peut pas sauver sa capitale  , car l’augmentation de l’océan est un phénomène provoqué par la participation d’un grand nombre de pays. Donc même si l’Indonésie réduit la production de co2 ,  l’augmentation du niveau de l'océan ne sera réduite de pratiquement rien. Donc nous pensons que pour que la capitale de l’Indonésie soit sauvée , il faut que tous les pays réduisent l'émission de co2.
-# Les méthodes
-sources
-[Link](url)
 
 ### L'extraction de données d'une carte topographique
 
