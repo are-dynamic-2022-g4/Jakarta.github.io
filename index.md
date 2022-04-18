@@ -78,4 +78,24 @@ La variation probable de la prévision du GIEC pour le RPC 8.5 est une augmentat
 Avec la valeur p de 0.5 (médiane) correspondant à *74 cm*.
 
 Selon mon programme, cela va résulter en *41.62 km2* de terres submergées par les eaux, et *30,276 personnes* seront déplacées.
+
+# EFO 1.0: Régression Linéaire
+
+Nous avons calculé l'augmentation par le régression des données entre 2000 et 2020, 
+alors notre prédiction n'est pas complètement en accord avec les prédictions plus fiables du GIEC.
+
+Celui-ci est le scénario dans lequel les émissions continuent linéairement sans aucun change de la trajectoire.
+
+Selon ce scénario, l'eau va augmenter de 4.34m jusqu'à 2100. Et cela va résulter en 719.93 km^2 de terres submergées par les eaux,
+et 1,855,484 personnes seront déplacées.
+
+# EFO 2.0: Sans L'Indonésie
+
+Celui-ci est le scénario dans lequel L'Indonésie cesse complètement d'émettre du CO2, dès maintenant.
+
+Selon ce scénario, l'eau va augmenter de 4.28m, une différence de 6 centimètres par rapport à la simulation 1.0. 
+
+Cela va résulter en 713.46 km^2 de terres submergées par les eaux, et 1,826,781 personnes seront déplacées.
+
+Alors indonésie seule peut sauver 6.47 km^2 de terres, et les maisons de 28,703 personnes à Jakarta. Une réduction de 1%.
 ```
