@@ -70,18 +70,18 @@ J'ai dû modifier un peu la forme et la taille de la carte pour l'adapter à la 
 Celui-ci est décrit par le GIEC comme le scénario intermédiaire, Les émissions plafonnent vers 2040, puis diminuent.
 
 La variation probable de la prévision du GIEC pour le RPC 4.5 est une augmentation du niveau des océans de 32 à 63 centimètres. 
-Avec la valeur p de 0.5 (médiane) correspondant à *53 cm*.
+Avec la valeur p de 0.5 (médiane) correspondant à **53 cm**.
 
-Selon mon programme, cela va résulter en *25.14 km2* de terres submergées par les eaux, et *8,876 personnes* seront déplacées.
+Selon mon programme, cela va résulter en **25.14 km2** de terres submergées par les eaux, et **8,876 personnes** seront déplacées.
 
 ### RPC 8.5: Cas extrême
 
 Celui-ci est le scénario dans lequel les émissions continuent d'augmenter tout au long du 21e siècle.
 
 La variation probable de la prévision du GIEC pour le RPC 8.5 est une augmentation du niveau des océans de 45 à 82 centimètres. 
-Avec la valeur p de 0.5 (médiane) correspondant à *74 cm*.
+Avec la valeur p de 0.5 (médiane) correspondant à **74 cm**.
 
-Selon mon programme, cela va résulter en *41.62 km2* de terres submergées par les eaux, et *30,276 personnes* seront déplacées.
+Selon mon programme, cela va résulter en **41.62 km2** de terres submergées par les eaux, et **30,276 personnes** seront déplacées.
 
 ### EFO 1.0: Régression Linéaire
 
@@ -106,6 +106,7 @@ Alors indonésie seule peut sauver 6.47 km^2 de terres, et les maisons de 28,703
 ### Critiques: 
 
 Malgré nos recherches nous n'avons pas pu trouver d’équation liant le taux de CO2 dans l’atmosphère et le niveau d’augmentation de l’eau. Au tout début nous avons utilisé la Formule de Hansen  +/−(20ppmCO2≡1˚C≡20msealevel)  mais en regardant de plus près, à l’époque cette formule était approximativement correcte. Mais depuis l’ère industrielle l’émission de CO2 a tellement augmenté et la formule n’était plus cohérente.
+
 ![image](https://user-images.githubusercontent.com/101198713/163886294-3763a231-5ddd-4e75-a8ca-0b421f818b51.png)
 
 Puis nous avons essayé de rentrer plus en détail avec l’augmentation du niveau de l’océan avec la puissance solaire, forçage radiatif, et augmentation du niveau de l’océan avec la température, mais les résultats n’étaient pas satisfaisant.
