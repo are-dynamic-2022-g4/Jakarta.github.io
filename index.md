@@ -1,30 +1,16 @@
 ## Jakarta
 
 Introduction:
-
-En Indonésie, Jakarta est menacé d'être submergé par l'océan. Cette augmentation de la hauteur du niveau de la mer est fortement dû au changement climatique. Notre projet de recherche va se centrer sur le CO2 et ses répercussions. Nous allons voir si notre temps est compté ou qu'il soit tous simplement trop tard.
-
-
+Récemment l'Indonésie envisage de changer de capitale pour s'installer à Kalimantan sur l'ile de Bornéo,la capitale Jakarta est menacé d'être submergé par l'océan.Plus de 10millions d'habitants risquent de devenir des réfugiers climatique. Cette augmentation de la hauteur du niveau de la mer est fortement dû au changement climatique. Notre projet de recherche va se centrer sur le CO2 et son influence sur le niveau de la mer. Nous allons voir si notre temps est compté ou qu'il soit tous simplement trop tard.
 
 ### La problématique
 
 L'indonésie est-elle capable de sauver seule sa capitale d'être inondé par l'océan.
 
+### Hypothèse
+
+L’Indonésie seule ne peut pas sauver sa capitale  , car l’augmentation de l’océan est un phénomène provoqué par la participation d’un grand nombre de pays. Donc même si l’Indonésie réduit la production de co2 ,  l’augmentation du niveau de l'océan ne sera réduite de pratiquement rien. Donc nous pensons que pour que la capitale de l’Indonésie soit sauvée , il faut que tous les pays réduisent l'émission de co2.
 # Les méthodes
-
-### CO2 -> Température -> Augmentation de la niveau de l'océan
-Augmentation de la hauteur du niveau de l’océan si la température augmentait de deltaT:
-
-Volume de l’océan actuellement : 1,4*10¹⁸*m³
-Surface de l’océan =3,6*10¹⁴*m²
-alpha :	Dilatation thermique de l'eau =1,7*10-⁴°c-¹
-
-deltaV=alphaVodeltaT
-
-deltaV=Surface*Hauteur
-
-Hauteur=deltaV/Surface
-
 sources
 [Link](url)
 
@@ -105,3 +91,16 @@ Selon ce scénario, l'eau va augmenter de 4.28m, une différence de 6 centimètr
 Cela va résulter en 713.46 km^2 de terres submergées par les eaux, et 1,826,781 personnes seront déplacées.
 
 Alors indonésie seule peut sauver 6.47 km^2 de terres, et les maisons de 28,703 personnes à Jakarta. Une réduction de 1%.
+
+### Critiques: 
+
+Malgré nos recherches nous n'avons pas pu trouver d’équation liant le taux de CO2 dans l’atmosphère et le niveau d’augmentation de l’eau. Au tout début nous avons utilisé la Formule de Hansen  +/−(20ppmCO2≡1˚C≡20msealevel)  mais en regardant de plus près, à l’époque cette formule était approximativement correcte. Mais depuis l’ère industrielle l’émission de CO2 a tellement augmenté et la formule n’était plus cohérente.
+
+Puis nous avons essayé de rentrer plus en détail avec l’augmentation du niveau de l’océan avec la puissance solaire, forçage radiatif, et augmentation du niveau de l’océan avec la température, mais les résultats n’étaient pas satisfaisant.
+
+Nous avons dû nous rabattre sur des régressions avec les résultats et statistique du GIEC. 
+
+
+### Conclusion:
+
+On se rend compte qu’avec nos simulations, le pire scénario est que la hauteur du niveau de la mer augmente d’environ 1.3 mètres. Ce qui déplace environ ……. habitants. Ce qui est théoriquement pas assez grave pour déplacer autant de personnes vers une nouvelle capitale et loin des estimations qu’on peut trouver sur internet par exemple de 50% de la capitale submergée d’ici 2050. En faisant d’autres recherches nous avons remarqué qu'il n’y avait pas que le réchauffement climatique qui influence l'inondation. Il y a aussi le prélèvement d’eau souterraine qui fait plonger Jakarta.C’est la combinaison des deux qui est problématique. Donc finalement notre hypothèse est fausse car Jakarta peut potentiellement se sauver elle-même de cette situation.
