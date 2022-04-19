@@ -1,6 +1,7 @@
 ## Jakarta
 
-Introduction:
+### Introduction
+
 Récemment l'Indonésie envisage de changer de capitale pour s'installer à Kalimantan sur l'ile de Bornéo,la capitale Jakarta est menacé d'être submergé par l'océan.Plus de 10millions d'habitants risquent de devenir des réfugiers climatique. Cette augmentation de la hauteur du niveau de la mer est fortement dû au changement climatique. Notre projet de recherche va se centrer sur le CO2 et son influence sur le niveau de la mer. Nous allons voir si notre temps est compté ou qu'il soit tous simplement trop tard.
 
 ### La problématique
@@ -59,7 +60,7 @@ J'ai dû modifier un peu la forme et la taille de la carte pour l'adapter à la 
 
 ### Progrès
 
-![progres](https://user-images.githubusercontent.com/96302110/163871072-ebc1b22d-22fd-4b11-93c6-d2614113558b.mp4)
+https://user-images.githubusercontent.com/96302110/163871072-ebc1b22d-22fd-4b11-93c6-d2614113558b.mp4
 
 # Scénarios
 
