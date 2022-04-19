@@ -19,7 +19,7 @@ J'ai utilisé la bibliothèque PIL (Python Image Library) pour itérer les pixel
 ### Traitement de données
 
 Puis j'ai utilisé une fonction pour passer des valeurs de couleur RGB aux valeurs de hauteur. 
-Pour cette fonction j'ai pris l'aide d'un ami qui étudie les mathématiques à l'université de bologne en italie.
+Pour cette fonction j'ai pris l'aide d'un ami qui étudie les mathématiques à l'université de bologne en italie, Filippo Fabbri.
 
 ![image](https://user-images.githubusercontent.com/96302110/163887472-d07d8ced-ab0e-4421-92fd-47420436cef4.png)
 ![image](https://user-images.githubusercontent.com/96302110/163887996-56c67f6a-2a95-4b33-b30b-c715671dedb0.png)
