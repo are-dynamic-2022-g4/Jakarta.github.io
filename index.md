@@ -32,6 +32,8 @@ Pour optimiser le procès de création d'image, j'ai transféré les valeurs de 
 Comme ça je n'ai pas eu besoin de traiter chaque image, c'était particulièrement utile pour créer ces vidéos où j'ai complètement 
 submergé la ville entière car il y avait environ 4000-5000 images par video
 
+![image](https://user-images.githubusercontent.com/96302110/164003630-82a5a8eb-0afd-4e24-bc13-864c4b3388d7.png)
+
 ### Image finale
 
 Pour les submersions d'images satellites, j'ai utilisé une fonction qui effectue les calculs sur l'image de la carte 
